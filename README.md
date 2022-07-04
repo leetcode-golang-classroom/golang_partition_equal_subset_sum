@@ -59,7 +59,7 @@ Explanation: The array cannot be partitioned into equal sum subsets.
 
 從 index: 0 開始
 
-![decision_dfs.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41f21602-b1ec-49f9-bcb0-d687363b6539/decision_dfs.png)
+![](https://i.imgur.com/afFz7L1.png)
 
 會發現透過 總共會有 $2^n$ 個結點
 
